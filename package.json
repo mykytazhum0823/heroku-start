@@ -1,0 +1,31 @@
+{
+  "name": "zoom-move",
+  "version": "1.0.0",
+  "description": "zoom and move image with chakra ui",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykytazhum0823/heroku-start.git"
+  },
+  "keywords": [
+    "zoom",
+    "move",
+    "chakra",
+    "react",
+    "image"
+  ],
+  "author": "Mykyta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykytazhum0823/heroku-start/issues"
+  },
+  "homepage": "https://github.com/mykytazhum0823/heroku-start#readme"
+}
